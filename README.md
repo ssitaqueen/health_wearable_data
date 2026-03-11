@@ -1,7 +1,3 @@
-업로드된 PDF 파일이 만료되어 현재 내용을 확인할 수 없다. 다시 업로드하면 그 내용을 기반으로 정확한 README를 작성할 수 있다.
-
-다만, 포트폴리오용으로 **채용 담당자가 선호하는 README 구조**는 다음과 같은 형태다. 이 구조는 데이터 분석 포트폴리오에서 가장 많이 사용되는 방식이다.
-
 ---
 
 # Individual Baseline Deviation Detection in Wearable Health Data
